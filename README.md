@@ -1,16 +1,3 @@
-# fyp
+# Heart Disease Prediction and Monitoring System
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A mobile application developed using python and flutter framework for the final-year project. Heart disease prediction and monitoring detect heart disease in its early stages, using a Machine learning algorithm with input parameters and data from smart wearables, to classify whether a person has heart disease or not. Also, provides personalized health care service to the heart patient through a health monitoring system that automatically collects data from smart wearables (i.e. health watches, smartwatch, fitness trackers, etc.) and monitors the health status of users. Moreover, the system facilitates users with an insight into their health status, recommendations, and precautions and alerts them to take proactive measures if their health is observed as declining.
